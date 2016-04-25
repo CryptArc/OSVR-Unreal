@@ -5,7 +5,7 @@
 #include "ModuleManager.h"
 #include "IHeadMountedDisplayModule.h"
 
-#define OSVR_UNREAL_3_11 0
+#define OSVR_UNREAL_4_11 0
 
 class OSVREntryPoint;
 class FOSVRHMD;
